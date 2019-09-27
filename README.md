@@ -9,4 +9,4 @@ I have not allowed for the ability to accept arguments yet, so the script only s
 
 Dependencies:
 
-Pillow
+Pillow (To install: pip install pillow
